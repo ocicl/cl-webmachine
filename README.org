@@ -1,0 +1,9 @@
+* cl-webmachine
+
+HTTP Semantic Awareness on top of Hunchentoot
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/melusina-org/cl-webmachine.git |
+| commit  | 2640acd                                               |
+| systems | org.melusina.webmachine.asd                           |
+|---------+-------------------------------------------------------|
