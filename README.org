@@ -4,6 +4,6 @@ HTTP Semantic Awareness on top of Hunchentoot
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/melusina-org/cl-webmachine.git |
-| commit  | 81f38c5                                               |
+| commit  | 89d1f41                                               |
 | systems | org.melusina.webmachine                               |
 |---------+-------------------------------------------------------|
